@@ -34,6 +34,7 @@ Slicers: Provides options for different states and quarter.
 - Focus on maintaining adequate inventory levels of the best-selling products and categories. Ensure high-demand items are never out of stock.
 - Provide discounts at the time of festivals mainly on the product 'Sarees' being the top 5 product having maximum sales and 'Clothing' being the category having maximum unit sold.
 ### Project Phases and Milestones:
+- Data Cleaning, Analyzing and visualizing: March 2024- April 2024
 ## Report Snapshot(Excel):
 ![Screenshot 2024-10-03 144155](https://github.com/user-attachments/assets/6e0c81e8-2f4c-43f8-8745-eacc9b49b51a)
 
