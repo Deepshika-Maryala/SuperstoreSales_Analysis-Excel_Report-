@@ -11,10 +11,10 @@ EDA involved exploring the sales data to answer the key questions such as:
 - What is the distribution of sales across different stores?
 - Which product categories generate the most/least sales?
 ### Insights and Findings:
-- Maximuum profits have been noticed in the month of November(~10K)
+- Maximum profits have been noticed in the month of November(~10K)
 - Maximum customers are from Maharashtra having the highest sales (102k)
 - Maximum Quantity of products sold are from Clothing category(63%)
-- Payment mode which is most opted by te customers is COD.
+- Payment mode which is most opted by the customers is COD.
 ### Analyzed Metrics:
 - Total Sales
 - Total Quantity
